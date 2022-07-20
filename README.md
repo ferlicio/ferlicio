@@ -2,6 +2,7 @@
 <h3 align="center">Um desenvolvedor apaixonado do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferlicio&label=Profile%20views&color=0e75b6&style=flat" alt="ferlicio" /> </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 - 🌱 Estou aprendendo: **JAVA, Angular, React, Spring**
 
