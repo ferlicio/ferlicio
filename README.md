@@ -33,7 +33,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ferlicio&show_icons=true&theme=aura" />
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferlicio&theme=aura" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferlicio&theme=tokyonight" />
 </p>
 
 <br>
