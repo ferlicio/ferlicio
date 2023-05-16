@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferlicio&label=Profile%20views&color=0e75b6&style=flat" alt="ferlicio" /> </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="325px" max-width="325px" width="325px" align="right" alt="Computador iuriCode">
 
-- 🌱 Estou aprendendo: **JAVA, Angular, React, Spring**
+- 🌱 Estou aprendendo: **JAVA, Angular, React, Spring, Python**
 
 - 📫 Como falar comigo: **ferlicio@gmail.com**
 
