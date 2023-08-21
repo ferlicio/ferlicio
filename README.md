@@ -36,7 +36,4 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ferlicio&theme=tokyonight" />
 </p>
 
-<br>
 
-<a href="https://github.com/ferlicio/github-readme-activity-graph"><img alt="ferlicio;s graph" src="https://activity-graph.herokuapp.com/graph?username=ferlicio&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
